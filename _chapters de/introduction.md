@@ -22,41 +22,36 @@ title: "Introduction"
 
 \"Machine learning is applied computational statistics.\" - Chris Wiggins
 
-Evidently, the meaning of the terms _artificial intelligence_ and _machine learning_ depend on who you ask.
 
-Selbstverständlich bedeutet der Begriff _Künstliche Intelligenz_ und Machinelles Lernen_ etwas anderes je nach dem wen man fragt.
+Selbstverständlich bedeutet der Begriff _Künstliche Intelligenz_ und Maschinelles Lernen_ etwas anderes je nach dem wen man fragt.
 
-Der Begriff Künstliche Intelligenz tauchte in [den 1950 auf](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) und wurde von ___ eingeführt. Die Begeisterung für das Thema schwankte zwischen Perioden großer Popularität und Pessimismus und [geringem Interesse](__ai winter__), der Teilweise dadurch ausgelößt wurde, das es die Techno-utopischen Prognosen von Opportunistischen Spekulanten [opportunistic speculators](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) nicht so früh erreichen konnte wie erwartet.
+Der Begriff Künstliche Intelligenz tauchte in [den 1950 auf](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) und wurde von ___ eingeführt. Die Begeisterung für das Thema schwankte zwischen Perioden großer Popularität und Pessimismus und [geringem Interesse](__ai winter__), der Teilweise dadurch ausgelöst wurde, das es die Techno-utopischen Prognosen von Opportunistischen Spekulanten [opportunistic speculators] (https://en.wikipedia.org/wiki/The_Singularity_Is_Near) nicht so früh erreichen konnte wie erwartet.
 
-Pamela McGoldrick erklärt die perodischen Einbrüche damit das \"Verwendbare Erfolge durch KI, Computerprogramme die tatsächlich intelligentes Verhalten aufweisen schnell in die Anwendungsdomainen in denen sie sich als nützlich erwiesen haben intergriert wurden und neben anderen Problemlösenden Ansätzen zu stille Helfern wurden, was die KI Forscher, mit den reinen
+Pamela McGoldrick erklärt die periodischen Einbrüche damit das \"Verwendbare Erfolge durch KI, Computerprogramme die tatsächlich intelligentes Verhalten aufweisen schnell in die Anwendungsdomänen in denen sie sich als nützlich erwiesen haben integriert wurden und neben anderen Problemlösenden Ansätzen zu stille Helfern wurden, was die KI Forscher, mit den reinen
 Fehlschlägen alleine ließ.
 \"
 
 
 In ähnlicher weise geht die Verwendung des Begriffs \"Maschinelles Lernen \" zurück bis zu den 1980, aber die Grundkonzepte reichen wesentlich weiter in die Vergangenheit als der Begriff selber. Als eigenständiges Forschungsfeld bekam es breitere Aufmerksamkeit als Ansätze der Statistik, insbesondere als man begann Daten-driven computational statistic für Probleme in der KI zu verwenden.
 
-Machinelles Lernen ist in der KI Forschung vorherschend, so das die beiden Begriffe in der Forschung und außerhalb often Synonym verwendet werden.
+Maschinelles Lernen ist in der KI Forschung vorherrschend, so das die beiden Begriffe in der Forschung und außerhalb oft Synonym verwendet werden.
 
-## Die Entstehung von deep learning
+## Die Entstehung von Tiefem Lernen
 
-In the 2010s, many machine learning researchers who were working with multilayer (\"deep\") architectures - especially multilayer neural networks - began to use the term \"deep learning.\" 
 
 In den 2010er Jahren fingen viele ML Forscher, die mit mehrschichtigen (\"deep\") Architekturen arbeiteten — insbesondere mehrschichtigen neuronalen Netzen — den Begriff \deep learning\ (Tiefes Lernen) zu verwenden.
 
-Deep neural networks set new benchmarks in speech recognition in 2009 (citation) and image recognition in 2012 (citation) - shattering the previous year\'s top systems by an unprecedented margin - and have since characterized most of ML\'s state-of-the-art techniques. In the last 5 years, most of the major scientific research centers have increased their funding of ML research, particularly deep learning. Much of the research has shifted away from university research centers and to the major tech industry titans, including Facebook, Google, Microsoft, and Amazon. Owing to its notorious secrecy, [Apple has largely fallen behind](http://www.bloomberg.com/news/articles/2015-10-29/apple-s-secrecy-hurts-its-ai-software-development).
-
-Tiefe neuronale Netze setzten im Jahr 2009 im Bereich Spracherkennung neue Maßstäbe und im Bereich Bilderkennung im Jahre
-2012 – wobei sie die Ergebnisse der besten Syteme der letzten Jahre weit hinter sich ließen und sind seitdem leitgebend was die meisten modernen ML Techniken angeht. In den letzten 5 Jahren haben die wichtigsten wissenschaftlichen Institute ihre finanziellen Mittel für ML Forschung und insbesondere tiefem Lernen erhöht. Der größte Teil der Forschung bewegte sich weg von den Universitäten hin zu den großen Konzernen der Technologie Industrie unter anderem Facebook, Google, Microsoft und Amazon.
+Tiefe neuronale Netze setzten im Jahr 2009 im Bereich Spracherkennung neue Maßstäbe und im Bereich Bilderkennung im Jahre 2012 – wobei sie die Ergebnisse der besten Systeme der letzten Jahre weit hinter sich ließen und sind seitdem leitgebend was die meisten modernen ML Techniken angeht. In den letzten 5 Jahren haben die wichtigsten wissenschaftlichen Institute ihre finanziellen Mittel für ML Forschung und insbesondere tiefem Lernen erhöht. Der größte Teil der Forschung bewegte sich weg von den Universitäten hin zu den großen Konzernen der Technologie Industrie unter anderem Facebook, Google, Microsoft und Amazon.
 Der typischen Geheimhaltung verdankend [Apple weit zurück gelassen (ENG)](http://www.bloomberg.com/news/articles/2015-10-29/apple-s-secrecy-hurts-its-ai-software-development).
 
 
 Im Jahr 2015 schrieb [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) [\"A
-Critique of Paper by \'Deep Learning Conspiracy\'\"] (http://people.idsia.ch/~juergen/deep-learning-conspiracy.html) und deutet darauf hin das die neusten Fortschritte im Bereich des Tiefen Lernens auf frühere Arbeiten mehrschichtiger neuronaler Netze, die Jahrzehnte zurückgehen. Seine Veröffentlichung provozierte eine Menge von Kommenten von einer vielzahl von Leuten und unter anderem von bekannten Forschern und lößte den einen harten Streit (flamewar) im Internet unter Akademikern jemals aus (ENG)(https://plus.google.com/100849856540000067209/posts/9BDtGwCDL7D).
+Critique of Paper by \'Deep Learning Conspiracy\'\"] (http://people.idsia.ch/~juergen/deep-learning-conspiracy.html) und deutet darauf hin das die neusten Fortschritte im Bereich des Tiefen Lernens auf frühere Arbeiten mehrschichtiger neuronaler Netze, die Jahrzehnte zurückgehen. Seine Veröffentlichung provozierte eine Menge von Kommentaren von einer Vielzahl von Leuten und unter anderem von bekannten Forschern und löste den einen harten Streit (flamewar) im Internet unter Akademikern jemals aus (ENG)(https://plus.google.com/100849856540000067209/posts/9BDtGwCDL7D).
 
 ## Deep learning shmeep learning
 WHAT ??? 
 
-Keiner Dieser Begriffe eine klare definierte Bedeitung und die Konnotationen wechseln unstetig, insbesondere in der wissenschaftlichen Gemeinde selber. Wir sind an Maschinen die interessante Sachen _machen_ interessiert, und daran, was sie _jetzt_ können— oder zumindest in der Nahen Zukunft.
+Keiner Dieser Begriffe eine klare definierte Bedeutung und die Konnotationen wechseln unstetig, insbesondere in der wissenschaftlichen Gemeinde selber. Wir sind an Maschinen, die interessante Sachen _machen_, interessiert und daran, was sie _jetzt_ können— oder zumindest in der Nahen Zukunft.
 
 ## Kernprinzipien dieses Buches
 
@@ -66,15 +61,9 @@ Keiner Dieser Begriffe eine klare definierte Bedeitung und die Konnotationen wec
 Es existieren bereits viele akademische Kurse. Dieses Buch versucht nicht diese zu ersetzen, sondern versucht eher zwischen den Seiten Wissenschaft und Magie zu stehen.
 
 
-## Software 
-
-This book tries to find a middle way.  tries to be methodical and easy to install, come with as many documented examples as possible.....
-
 ## Software
 
 Dieses Buch versucht einen Mittelweg zu finden. Es versucht Methodisch und die Installationen einfach zu beschreiben. Es werden so viele Beschreibungen und Beispiele vorhanden sein. 
-
-## Upkeep
 
 ## Aktualisierungen
 
@@ -82,10 +71,7 @@ Maschinelles Lernen ist ein sich schnell veränderndes Feld und ein Viertel des 
 
 ## Mathematik
 
-In general, this book will try to minimize the use of math, and rely on visual aides more than equations, both because neural networks can be well understood this way, and because it helps reduce the need for other qualifications. Nevertheless you may still find it helpful to review your maths to attach mental probabilistic and spatial geometric interpretations to them.
-Francis Tseng has a nice guide to AI and ML which contains a concise review of the math needed. [ some more links ]
-
-Im allgemeinen versucht dieses Buch den Matheanteil so gering wie möglich zu halten und mit visuellen Hilfsmitteln statt Gleichungen auszukommen. Das kommt daher, das Neuronale Netze visuell sehr verständlich sind und es keine besonderen Qualifikationen benötigt.
+Im allgemeinen versucht dieses Buch den Matheanteil so gering wie möglich zu halten und mit visuellen Hilfsmitteln statt Gleichungen auszukommen. Das kommt daher, das Neuronale Netze visuell sehr verständlich sind und es keine besonderen Qualifikationen benötigt. Dennoch könnte es hilfreich sein, da das Thema Wahrscheinlich und räumliche Geometrie auch vorkommen. Francis Tseng hat einen netten Leitfaden zu KI und ML geschrieben, der ein gutes Grundwissen benötigt (In Englisch)
 
 one of the things we can do away with is some of the details of training deep networks and focus on applications. vindication for me as its all i used to do
 
